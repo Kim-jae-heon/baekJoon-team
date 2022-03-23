@@ -1,4 +1,4 @@
-package baekJoon;
+package baekJoon.io;
 
 public class HelloWorld {
 	public static void main(String[] args) {

@@ -1,15 +1,16 @@
-package baekJoon;
+package baekJoon.io;
 
 import java.util.Scanner;
 
-public class Printing {
+public class AplusB1 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		int a;
-	
+		int a,b;
 		a = scan.nextInt();
-		for(int i = 0; i < a; i++) {
-			System.out.println(i+1);
-		}
+		b = scan.nextInt();
+		
+		System.out.println(a+b);
+		
+		scan.close();
 	}
 }

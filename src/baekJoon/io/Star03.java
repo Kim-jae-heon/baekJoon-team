@@ -1,8 +1,8 @@
-package baekJoon;
+package baekJoon.io;
 
 import java.util.Scanner;
 
-public class Star3 {
+public class Star03 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n;
