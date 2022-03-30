@@ -1,4 +1,4 @@
-package baekJoon.sorting;
+package baekJoon.sqd;
 
 import java.io.BufferedReader;
 import java.io.IOException;
